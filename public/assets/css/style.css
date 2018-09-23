@@ -1,19 +1,31 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: red;
+  color:white;
+  display:inline;
 }
 
 .label {
   font-weight: bold;
+  color:white;
 }
 
 .create-update-form {
   padding: 5px;
   margin: 5px;
   background: aqua;
+  color:white;
 }
 
 .form-group {
   margin-bottom: 5px;
+  color:white;
+}
+body {
+  background-image: url("http://c8.alamy.com/comp/KPRK2K/gray-wood-background-with-red-tablecloth-KPRK2K.jpg");
+  background-size: 50%;
+}
+title, h1, h2 {
+  color:white;
 }
